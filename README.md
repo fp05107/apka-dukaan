@@ -1,6 +1,6 @@
 
 <a name="readme-top"></a> 
-# Rest-API-ECommerce (DealsNow)
+# Rest-API-ECommerce
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -34,7 +34,6 @@
   4. filter product by category, price, brand.
   5. Add a product to cart
   6. Order product from cart
-  ![App Screenshot](https://github.com/sumitpanchal08/Rest-API-ECommerce/blob/main/db/User.png)
 * Admin functionality
   1. Add new Catagory.
   2. Add new Product.
@@ -49,12 +48,7 @@ Backend
 * Sprint Boot
 * MySQL
 
-Frontend
-* HTML
-* CSS
-* JavaScript
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
